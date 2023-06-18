@@ -158,21 +158,14 @@
       "bounty": true,
       "domains": [
         "byairbnb.com",
-        "luckey.app",
         "withairbnb.com",
         "airbnbcitizen.com",
-        "luckey.fr",
         "atairbnb.com",
         "airbnb.com",
         "hoteltonight-test.com",
         "muscache.com",
         "airbnb-aws.com",
-        "airbnb.app",
-        "luckey.in",
-        "luckey.partners",
-        "luxuryretreats.com",
-        "luckeyhomes.com",
-        "urbandoor.com"
+        "luxuryretreats.com"
       ]
     },
     {
@@ -237,8 +230,7 @@
       "bounty": true,
       "domains": [
         "algolianet.com",
-        "algolia.com",
-        "algolia.net"
+        "algolia.com"
       ]
     },
     {
@@ -4082,7 +4074,6 @@
       "url": "https://hackerone.com/grab",
       "bounty": true,
       "domains": [
-        "grab.careers",
         "myteksi.net",
         "myteksi.com",
         "grab.co",
@@ -4103,7 +4094,6 @@
       "bounty": true,
       "domains": [
         "grammarly.com",
-        "grammarly.ai",
         "grammarly.io",
         "grammarly.net"
       ]
@@ -8644,7 +8634,9 @@
       "url": "https://hackerone.com/uber",
       "bounty": true,
       "domains": [
-        "uber.com"
+        "uber.com",
+        "uberinternal.com",
+        "ubereats.com"
       ]
     },
     {
